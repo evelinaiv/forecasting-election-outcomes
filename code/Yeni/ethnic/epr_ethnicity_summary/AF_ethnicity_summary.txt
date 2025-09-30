@@ -1,0 +1,53 @@
+State: Algeria, Ethnicity Count: 2, Ethnicities: Arabs, Berbers
+State: Angola, Ethnicity Count: 5, Ethnicities: Ovimbundu-Ovambo, Mbundu-Mestico, Bakongo, Lunda-Chokwe, Cabindan Mayombe
+State: Benin, Ethnicity Count: 4, Ethnicities: South/Central (Fon), Southeastern (Yoruba/Nagot and Goun), Northern (Bariba, Peul, Ottamari, Yoa-Lokpa, Dendi, Gourmanchéma), Southwestern (Adja)
+State: Botswana, Ethnicity Count: 10, Ethnicities: Tswana, Kalanga, Kgalagadi, San, Herero/Mbanderu, White, Yeyi, Mbukushu, Birwa, Tswapong
+State: Burkina Faso (Upper Volta), Ethnicity Count: 1, Ethnicities: Gur
+State: Burundi, Ethnicity Count: 2, Ethnicities: Hutu, Tutsi
+State: Cameroon, Ethnicity Count: 6, Ethnicities: Bamileke, Beti (and related peoples), Fulani (and other northern Muslim peoples), Bassa/Duala, Northwestern Anglophones (Grassfielders), Southwestern Anglophones (Bakweri etc.)
+State: Cape Verde, Ethnicity Count: 1, Ethnicities: Cape Verdeans
+State: Central African Republic, Ethnicity Count: 11, Ethnicities: Northern groups (Baya, Banda, Mandjia, Sara, Goula), Riverine groups (Ngbaka/Mbaka, Yakoma, Banziri etc.), Other Riverine groups (Banziri, Songo etc.), Ngbaka/Mbaka, Yakoma, Baya, Banda, Sara, Goula, Northern Muslim groups (Goula, Runga, Kara), Fulani
+State: Chad, Ethnicity Count: 7, Ethnicities: Muslim Sahel groups, Sara, Arabs, Toubou, Hadjerai, Zaghawa, Bideyat, Tama
+State: Comoros, Ethnicity Count: 3, Ethnicities: Ngazidja Comorans, Nzwani Comorans, Mwali Comorans
+State: Congo, Ethnicity Count: 9, Ethnicities: Lari, Batéké, Mbochi, Bakongo, Vili, Lari/Bakongo, Mbochi (proper), Kouyou, Bembe
+State: Congo, Democratic Republic of (Zaire), Ethnicity Count: 12, Ethnicities: Mongo, Bakongo, Tetela-Kusu, Luba Kasai, Lunda-Yeke, Luba Shaba, Ngbandi, Lulua, Other Kivu groups, Mbandja, Ngbaka, Tutsi-Banyamulenge
+State: Cote D'Ivoire, Ethnicity Count: 5, Ethnicities: Northerners (Mande and Voltaic/Gur), Other Akans, Baule, Kru, Southern Mande
+State: Djibouti, Ethnicity Count: 2, Ethnicities: Isaas (Somali), Afar
+State: Egypt, Ethnicity Count: 3, Ethnicities: Arab Muslims, Coptic Christians, Jews
+State: Equatorial Guinea, Ethnicity Count: 5, Ethnicities: Fang, Bubi, Ndowe, Fernandinos, Annobon Islanders
+State: Eritrea, Ethnicity Count: 5, Ethnicities: Christians, Other Muslims, Afar, Kunama, Saho
+State: Ethiopia, Ethnicity Count: 12, Ethnicities: Oroma, Amhara, Tigry, Somali (Ogaden), Afar, Christian Eritreans, Muslim Eritreans, Sidama, Other Southern Nations, Beni-Shugal-Gumez, Harari, Anuak
+State: Gabon, Ethnicity Count: 6, Ethnicities: Fang, Eshira/Bapounou, Myene, Mbede (Nzebi, Bateke, Obamba), Nkomi, Orungu
+State: Gambia, Ethnicity Count: 5, Ethnicities: Mandinka, Fula, Wolof, Diola, Aku (Creoles)
+State: Ghana, Ethnicity Count: 5, Ethnicities: Other Akans, Northern Groups (Mole-Dagbani, Gurma, Grusi), Asante (Akan), Ewe, Ga-Adangbe
+State: Guinea, Ethnicity Count: 3, Ethnicities: Peul, Malinke, Susu
+State: Guinea-Bissau, Ethnicity Count: 4, Ethnicities: Balanta, Manjaco, Papel, Cape Verdean
+State: Kenya, Ethnicity Count: 8, Ethnicities: Kikuyu-Meru-Emb, Kalenjin-Masai-Turkana-Samburu, Luhya, Luo, Kamba, Kisii, Mijikenda, Somali
+State: Lesotho, Ethnicity Count: 1, Ethnicities: Sotho
+State: Liberia, Ethnicity Count: 7, Ethnicities: Indigenous Peoples, Americo-Liberians, Gio, Mano, Krahn (Guere), Mandingo, Kru
+State: Libya, Ethnicity Count: 5, Ethnicities: Arabs, Jews, Berbers, Tuareg, Toubou
+State: Madagascar (Malagasy), Ethnicity Count: 2, Ethnicities: Côtiers, Highlanders
+State: Malawi, Ethnicity Count: 3, Ethnicities: Southerners (Lomwe, Mang'anja, Nyanja, Yao), Central (Chewa), Northerners (Tumbuka, Tonga, Ngonde)
+State: Mali, Ethnicity Count: 3, Ethnicities: Blacks (Mande, Peul, Voltaic etc.), Tuareg, Arabs/Moors
+State: Mauritania, Ethnicity Count: 4, Ethnicities: White Moors (Beydan), Haratins (Black Moors), Black Africans, Sahrawis
+State: Mauritius, Ethnicity Count: 9, Ethnicities: Hindus, Creoles, Muslims, Franco-Mauritians, Black Creoles, Gens-de-Couleur, Hindi-speaking Hindus, Tamils and Telugus, Marathis
+State: Morocco, Ethnicity Count: 3, Ethnicities: Arabs, Berbers, Sahrawis
+State: Mozambique, Ethnicity Count: 3, Ethnicities: Tsonga-Chopi, Shona-Ndau, Makonde-Yao
+State: Namibia, Ethnicity Count: 12, Ethnicities: Ovambo, Kavango, Whites, Herero, Mbanderu, Nama, Damara, Coloreds, Basubia, Mafwe, San, Baster, Himba
+State: Niger, Ethnicity Count: 5, Ethnicities: Hausa, Djerma-Songhai, Tuareg, Kanouri, Toubou
+State: Nigeria, Ethnicity Count: 6, Ethnicities: Hausa-Fulani and Muslim Middle Belt, Yoruba, Igbo, Ijaw, Tiv, Ogoni
+State: Rwanda, Ethnicity Count: 2, Ethnicities: Hutu, Tutsi
+State: Senegal, Ethnicity Count: 5, Ethnicities: Wolof, Pulaar (Peul, Toucouleur), Serer, Mandingue (and other eastern groups), Diola
+State: Sierra Leone, Ethnicity Count: 6, Ethnicities: Northern Groups (Temne, Limba), Mende, Creole, Kono, Temne, Limba
+State: Somalia, Ethnicity Count: 1, Ethnicities: Somali
+State: South Africa, Ethnicity Count: 15, Ethnicities: Blacks, Afrikaners, Coloreds, English Speakers, Asians, Zulu, Xhosa, Pedi (North Sotho), South Sotho, Tswana, Tsonga, Swazi, Venda, Ndebele, San
+State: South Sudan, Ethnicity Count: 10, Ethnicities: Dinka, Nuer, Azande, Toposa, Shilluk, Murle, Anyuak, Mundari, Bari, Didinga
+State: Sudan, Ethnicity Count: 16, Ethnicities: Other Arab Groups, Other Northern Groups, Shaygiyya, Ja'aliyyin and Danagla (Arab), Dinka, Other Southern groups, Beja, Nuba, Nuer, Azande, Bari, Fur, Latoka, Shilluk, Masalit, Zaghawa, Rashaida
+State: Swaziland (Eswatini), Ethnicity Count: 1, Ethnicities: Swazi
+State: Tanzania (Tanganyika), Ethnicity Count: 6, Ethnicities: Mainland Africans, Shirazi (Zanzibar Africans), Zanzibar Arabs, Maasai, Others Mainland (Christians and traditional religions), Mainland Muslims
+State: Togo, Ethnicity Count: 2, Ethnicities: Ewe (and related groups), Kabré (and related groups)
+State: Tunisia, Ethnicity Count: 1, Ethnicities: Arabs
+State: Uganda, Ethnicity Count: 15, Ethnicities: Northerners (Langi, Acholi, Teso, Madi, Kakwa-Nubian, Lugbara, Alur), South-Westeners (Ankole, Banyoro, Toro, Banyarwanda), Baganda, Basoga, Northerners (Langi, Acholi, Madi, Kakwa-Nubian, Lugbara, Alur), Teso, Langi/Acholi, Far North-West Nile (Kakwa-Nubian, Madi, Lugbara, Alur), Karamojong, Asians, Far North-West Nilers (Madi, Lugbara, Alur), Kakwa-Nubian, Northerners (Langi, Acholi, Teso), South-Westerners (Ankole, Banyoro, Toro), Banyarwanda
+State: Zambia, Ethnicity Count: 7, Ethnicities: Bemba speakers, Nyanja speakers (Easterners), Tonga-Ila-Lenje (Southerners), Lozi (Barotse), Luanda (NW Province), Kaonde (NW Province), Luvale (NW Province)
+State: Zanzibar, Ethnicity Count: 2, Ethnicities: Shirazi (Zanzibar Africans), Zanzibar Arabs
+State: Zimbabwe (Rhodesia), Ethnicity Count: 8, Ethnicities: Africans, White Zimbabweans, Shona, Ndebele-Kalanga-(Tonga), Shona (minus Ndau), Ndau (Shona sub-group), Shona (minus Manyika & Ndau), Manyika (Shona sub-group)

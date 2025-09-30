@@ -1,0 +1,12 @@
+State: Argentina, Ethnicity Count: 2, Ethnicities: Whites/mestizos, Indigenous peoples
+State: Bolivia, Ethnicity Count: 4, Ethnicities: Whites/mestizos, Quechua, Aymara, Guaraní and other eastern indigenous groups
+State: Brazil, Ethnicity Count: 3, Ethnicities: Whites, Afrobrazilians, Indigenous peoples
+State: Chile, Ethnicity Count: 4, Ethnicities: Whites/mestizos, Mapuche, Rapa Nui, Other indigenous groups
+State: Colombia, Ethnicity Count: 3, Ethnicities: Whites/mestizos, Indigenous peoples, Afro-Colombian
+State: Ecuador, Ethnicity Count: 4, Ethnicities: Whites/mestizos, Indigenous highland peoples (Kichwa), Afro-Ecuadorians, Indigenous lowland peoples (Shuar, Achuar etc.)
+State: Guyana, Ethnicity Count: 3, Ethnicities: Indo-Guyanese, Afro-Guyanese, Indigenous peoples
+State: Paraguay, Ethnicity Count: 2, Ethnicities: Whites/mestizos, Tupi-Guaraní and other indigenous groups
+State: Peru, Ethnicity Count: 4, Ethnicities: Whites/mestizos, Indigenous peoples of the Andes, Afroperuvians, Indigenous peoples of the Amazon
+State: Surinam, Ethnicity Count: 6, Ethnicities: East Indians, Creoles, Javanese, Maroons, Indigenous Peoples (Arawaks and Caribs), Chinese
+State: Uruguay, Ethnicity Count: 2, Ethnicities: Whites/mestizos, Afro-Uruguayans
+State: Venezuela, Ethnicity Count: 3, Ethnicities: Whites/mestizos, Indigenous peoples, Afrovenezuelans

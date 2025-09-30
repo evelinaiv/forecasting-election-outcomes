@@ -1,0 +1,5 @@
+State: Australia, Min Year: 1946, Max Year: 2021
+State: Papua New Guinea, Min Year: 1975, Max Year: 2021
+State: New Zealand, Min Year: 1946, Max Year: 2021
+State: Solomon Islands, Min Year: 1978, Max Year: 2021
+State: Fiji, Min Year: 1970, Max Year: 2021

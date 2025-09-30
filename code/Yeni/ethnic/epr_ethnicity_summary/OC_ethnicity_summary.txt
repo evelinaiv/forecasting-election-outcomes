@@ -1,0 +1,5 @@
+State: Australia, Ethnicity Count: 3, Ethnicities: Whites, Asians, Aboriginal people
+State: Fiji, Ethnicity Count: 2, Ethnicities: Indians, Fijians
+State: New Zealand, Ethnicity Count: 4, Ethnicities: New Zealanders, Maori, Pacific Islanders, Asians
+State: Papua New Guinea, Ethnicity Count: 2, Ethnicities: Papua New Guineans, Bougainvilleans
+State: Solomon Islands, Ethnicity Count: 1, Ethnicities: Solomon Islanders

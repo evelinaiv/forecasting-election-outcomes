@@ -1,0 +1,43 @@
+State: Albania, Ethnicity Count: 3, Ethnicities: Albanians, Greeks, Macedonians
+State: Austria, Ethnicity Count: 2, Ethnicities: Austrians, Slovenes
+State: Belarus (Byelorussia), Ethnicity Count: 3, Ethnicities: Byelorussians, Russians, Poles
+State: Belgium, Ethnicity Count: 3, Ethnicities: Flemings, Walloon, Germans
+State: Bosnia-Herzegovina, Ethnicity Count: 4, Ethnicities: Bosniaks/Muslims, Serbs, Croats, Roma
+State: Bulgaria, Ethnicity Count: 5, Ethnicities: Bulgarians, Turkish, Roma, Pomaks, Macedonians
+State: Croatia, Ethnicity Count: 6, Ethnicities: Croats, Serbs, Roma, Bosniaks, Italians, Hungarians
+State: Czech Republic, Ethnicity Count: 1, Ethnicities: Czechs
+State: Czechoslovakia, Ethnicity Count: 4, Ethnicities: Czechs, Slovaks, Hungarians, Roma
+State: Denmark, Ethnicity Count: 1, Ethnicities: Danes
+State: Estonia, Ethnicity Count: 4, Ethnicities: Estonians, Russians, Ukrainians, Byelorussians
+State: Finland, Ethnicity Count: 2, Ethnicities: Finns, Swedes
+State: France, Ethnicity Count: 4, Ethnicities: French, Roma, Basques, Corsicans
+State: German Democratic Republic, Ethnicity Count: 1, Ethnicities: Germans
+State: German Federal Republic, Ethnicity Count: 1, Ethnicities: Germans
+State: Greece, Ethnicity Count: 4, Ethnicities: Greeks, Roma, Macedonians, Muslims
+State: Hungary, Ethnicity Count: 3, Ethnicities: Hungarians, Roma, Germans
+State: Iceland, Ethnicity Count: 1, Ethnicities: Icelanders
+State: Ireland, Ethnicity Count: 1, Ethnicities: Irish
+State: Italy/Sardinia, Ethnicity Count: 6, Ethnicities: Italians, Sardinians, Friulians, German speakers (Austrians), Aostans (French speakers), Roma
+State: Kosovo, Ethnicity Count: 6, Ethnicities: Albanians, Serbs, Roma, Bosniaks, Turks, Gorani
+State: Latvia, Ethnicity Count: 4, Ethnicities: Latvians, Russians, Byelorussians, Ukrainians
+State: Lithuania, Ethnicity Count: 3, Ethnicities: Lithuanians, Russians, Poles
+State: Luxembourg, Ethnicity Count: 1, Ethnicities: Luxembourgers
+State: Macedonia (FYROM/North Macedonia), Ethnicity Count: 7, Ethnicities: Macedonians, Albanians, Turks, Roma, Serbs, Bosniaks, Vlachs
+State: Malta, Ethnicity Count: 1, Ethnicities: Maltese
+State: Moldova, Ethnicity Count: 4, Ethnicities: Moldovans, Russian speakers, Gagauz, Bulgarians
+State: Montenegro, Ethnicity Count: 6, Ethnicities: Montenegrins, Serbs, Bosniak/Muslims, Albanians, Croats, Roma
+State: Netherlands, Ethnicity Count: 2, Ethnicities: Dutch, Muslims
+State: Norway, Ethnicity Count: 1, Ethnicities: Norwegians
+State: Poland, Ethnicity Count: 6, Ethnicities: Poles, Germans, Ukrainians, Byelorussians, European and American Jews, Roma
+State: Portugal, Ethnicity Count: 1, Ethnicities: Portuguese
+State: Rumania, Ethnicity Count: 4, Ethnicities: Romanians, Hungarians, Roma, Germans
+State: Russia (Soviet Union), Ethnicity Count: 54, Ethnicities: Russians, Ukrainians, Byelorussians, Tatars, Uzbeks, Armenians, Azeri, Georgians, Jews, Kazakhs, Lithuanians, Moldovans, Germans, Chuvashes, Poles, Tajiks, Mordva, Latvians, Bashkirs, Kirghis, Estonians, Turkmens, Udmurt, Chechens, Ossetes, Mari, Koreans, Avars, Dargins, Kabardins, Buryats, Ingush, Kumyks, Lezgins, Yakuts, Komi, Gagauz, Roma, Kalmyks, Karakalpaks, Karelians, Komi-Permyaks, Tuvinians, Uighurs, Adyghe, Cherkess, Karachai, Abkhaz, Khakass, Balkars, Altai, Pamir Tajiks, Crimean Tatars, Chukchi
+State: Serbia, Ethnicity Count: 8, Ethnicities: Serbs, Albanians, Hungarians, Bosniak/Muslims, Roma, Croats, Montenegrins, Vlachs
+State: Slovakia, Ethnicity Count: 2, Ethnicities: Slovaks, Hungarians
+State: Slovenia, Ethnicity Count: 4, Ethnicities: Slovenes, Hungarians, Italians, Roma
+State: Spain, Ethnicity Count: 5, Ethnicities: Spanish, Catalans, Galicians, Basques, Roma
+State: Sweden, Ethnicity Count: 1, Ethnicities: Swedes
+State: Switzerland, Ethnicity Count: 3, Ethnicities: Swiss Germans, Swiss French, Swiss Italians
+State: Ukraine, Ethnicity Count: 6, Ethnicities: Ukrainians, Russians, Romanians/Moldovans, Crimean Tatars, Hungarians, Rusyns
+State: United Kingdom, Ethnicity Count: 7, Ethnicities: English, Scots, Catholics In N. Ireland, Protestants In N. Ireland, Welsh, Asians, Afro-Caribbeans
+State: Yugoslavia, Ethnicity Count: 9, Ethnicities: Serbs, Croats, Bosniaks/Muslims, Albanians, Slovenes, Macedonians, Montenegrins, Hungarians, Roma

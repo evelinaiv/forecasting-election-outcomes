@@ -1,0 +1,17 @@
+State: Bahamas, Ethnicity Count: 2, Ethnicities: Afro-Bahamians (Black), Whites
+State: Barbados, Ethnicity Count: 1, Ethnicities: Barbadians
+State: Belize, Ethnicity Count: 4, Ethnicities: Mestizos, Creoles, Maya, Garifuna
+State: Canada, Ethnicity Count: 3, Ethnicities: English speakers, French speakers, Indigenous peoples
+State: Costa Rica, Ethnicity Count: 3, Ethnicities: Whites/mestizos, Afro-Costa Ricans, Indigenous peoples
+State: Cuba, Ethnicity Count: 2, Ethnicities: Whites, Afro-Cubans
+State: Dominican Republic, Ethnicity Count: 2, Ethnicities: Dominicans, Dominican Haitians
+State: El Salvador, Ethnicity Count: 2, Ethnicities: Whites/mestizos, Indigenous peoples
+State: Guatemala, Ethnicity Count: 4, Ethnicities: Maya, Ladinos, Xinca, Garífuna
+State: Haiti, Ethnicity Count: 1, Ethnicities: Haitians
+State: Honduras, Ethnicity Count: 3, Ethnicities: Whites/mestizos, Garifuna, Indigenous peoples (Lenca, Maya-Chorti, Miskito, Tawahka/Sumu, Xicaque, Pech, Nahua)
+State: Jamaica, Ethnicity Count: 1, Ethnicities: Jamaicans
+State: Mexico, Ethnicity Count: 4, Ethnicities: Mestizos, Other indigenous groups, Afromexicans, Maya
+State: Nicaragua, Ethnicity Count: 4, Ethnicities: Whites/mestizos, Afronicaraguans, Miskitos, Sumus
+State: Panama, Ethnicity Count: 5, Ethnicities: Whites/mestizos, Afropanamanians, Kuna, Ngäbe-Buglé, Choco (Embera-Wounan)
+State: Trinidad and Tobago, Ethnicity Count: 2, Ethnicities: East Indians, Blacks
+State: United States of America, Ethnicity Count: 6, Ethnicities: Whites, African Americans, American Indians, Latinos, Asian Americans, Arab Americans

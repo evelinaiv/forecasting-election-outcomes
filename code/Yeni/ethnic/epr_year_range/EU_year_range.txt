@@ -1,0 +1,43 @@
+State: United Kingdom, Min Year: 1946, Max Year: 2021
+State: Ireland, Min Year: 1946, Max Year: 2021
+State: Netherlands, Min Year: 1946, Max Year: 2021
+State: Belgium, Min Year: 1946, Max Year: 2021
+State: Luxembourg, Min Year: 1946, Max Year: 2021
+State: France, Min Year: 1946, Max Year: 2021
+State: Switzerland, Min Year: 1946, Max Year: 2021
+State: Spain, Min Year: 1946, Max Year: 2021
+State: Portugal, Min Year: 1946, Max Year: 2021
+State: German Federal Republic, Min Year: 1949, Max Year: 2021
+State: German Democratic Republic, Min Year: 1949, Max Year: 1990
+State: Poland, Min Year: 1946, Max Year: 2021
+State: Austria, Min Year: 1946, Max Year: 2021
+State: Hungary, Min Year: 1946, Max Year: 2021
+State: Czechoslovakia, Min Year: 1946, Max Year: 1992
+State: Czech Republic, Min Year: 1993, Max Year: 2021
+State: Slovakia, Min Year: 1993, Max Year: 2021
+State: Italy/Sardinia, Min Year: 1946, Max Year: 2021
+State: Malta, Min Year: 1964, Max Year: 2021
+State: Albania, Min Year: 1946, Max Year: 2021
+State: Serbia, Min Year: 2006, Max Year: 2021
+State: Montenegro, Min Year: 2006, Max Year: 2021
+State: Macedonia (FYROM/North Macedonia), Min Year: 1991, Max Year: 2021
+State: Croatia, Min Year: 1992, Max Year: 2021
+State: Yugoslavia, Min Year: 1946, Max Year: 2006
+State: Bosnia-Herzegovina, Min Year: 1992, Max Year: 2021
+State: Kosovo, Min Year: 2008, Max Year: 2021
+State: Slovenia, Min Year: 1992, Max Year: 2021
+State: Greece, Min Year: 1946, Max Year: 2021
+State: Bulgaria, Min Year: 1946, Max Year: 2021
+State: Moldova, Min Year: 1991, Max Year: 2021
+State: Rumania, Min Year: 1946, Max Year: 2021
+State: Russia (Soviet Union), Min Year: 1946, Max Year: 2021
+State: Estonia, Min Year: 1991, Max Year: 2021
+State: Latvia, Min Year: 1991, Max Year: 2021
+State: Lithuania, Min Year: 1991, Max Year: 2021
+State: Ukraine, Min Year: 1991, Max Year: 2021
+State: Belarus (Byelorussia), Min Year: 1991, Max Year: 2021
+State: Finland, Min Year: 1946, Max Year: 2021
+State: Sweden, Min Year: 1946, Max Year: 2021
+State: Norway, Min Year: 1946, Max Year: 2021
+State: Denmark, Min Year: 1946, Max Year: 2021
+State: Iceland, Min Year: 1946, Max Year: 2021

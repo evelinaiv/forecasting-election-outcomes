@@ -1,0 +1,51 @@
+State: Afghanistan, Ethnicity Count: 7, Ethnicities: Pashtuns, Tajiks, Hazara, Qizalbash, Uzbeks, Turkmen, Nuristani
+State: Armenia, Ethnicity Count: 3, Ethnicities: Armenians, Kurds/Yezidis, Assyrians
+State: Azerbaijan, Ethnicity Count: 4, Ethnicities: Azeri, Lezgins, Armenians, Talysh
+State: Bahrain, Ethnicity Count: 2, Ethnicities: Shi'a Arabs, Sunni Arabs
+State: Bangladesh, Ethnicity Count: 4, Ethnicities: Bengali Muslims, Bengali Hindus, Tribal-Buddhists, Biharis (Urdu-Speaker)
+State: Bhutan, Ethnicity Count: 4, Ethnicities: Bhutanese, Lhotsampa (Hindu Nepalese), Sharchops, Ngalops (Drupka)
+State: Brunei, Ethnicity Count: 4, Ethnicities: Bumiputera (Muslims), Chinese, Bumiputera (other), Non-Bumiputera (Indigenous)
+State: Cambodia (Kampuchea), Ethnicity Count: 6, Ethnicities: Khmer, Chinese, Vietnamese, Cham and Malays, Khmer Loeu (various indigenous minorities), Thai-Lao
+State: China, Ethnicity Count: 38, Ethnicities: Chinese (Han), Zhuang, Uyghur, Hui, Yi, Miao, Manchu, Mongolians, Bouyei, Koreans, Dong, Yao, Bai, Kazakh, Tibetans, Hui (proper), Hani, Dai, Tujia, Li, Lisu, Lahu, She, Wa, Dongxiang, Naxi, Shui, Kirghiz, Jingpo, Mulam, Qiang, Tu, Daur, Gelao, Salar, Xibe, Blang, Maonan
+State: Cyprus, Ethnicity Count: 2, Ethnicities: Greeks, Turks
+State: East Timor, Ethnicity Count: 1, Ethnicities: East Timorese
+State: Georgia, Ethnicity Count: 5, Ethnicities: Georgians, Armenians, Azeri, Ossetians (South), Abkhazians
+State: India, Ethnicity Count: 21, Ethnicities: Hindi (Non SC/ST OBCs), Scheduled Castes, Other Muslims, Scheduled Tribes, Marathi (non-SC/ST), Telugu (Non SC/ST/OBCs), Tamil (non-SC/ST/OBCs), Bengali (non-SC/ST/OBCs), Gujarati (non-SC/ST), Kannada (non-SC/ST), Malyalam (non-SC/ST), Oriya (non-SC/ST), Punjabi-Sikhs (non-SC/ST/OBCs), Assamese (non-SC/ST/OBCs), Manipuri, Naga, Indigenous Tripuri, Mizo, Kashmiri Muslims, Bodo, Other Backward Classes/Castes
+State: Indonesia, Ethnicity Count: 17, Ethnicities: Javanese, Sundanese, Madura, Minangkabaus, Bataks, Chinese (Han), Dayak, Acehnese, Balinese, Makassarese and Bugis, Minahasa, Amboinese, Gorontalos, Ternate, Papuans, East Timorese, Malay
+State: Iran (Persia), Ethnicity Count: 11, Ethnicities: Persians, Azeri, Kurds, Arabs, Turkmen, Armenians, Jews, Assyrians, Zoroastrians, Baloch, Bahais
+State: Iraq, Ethnicity Count: 6, Ethnicities: Shi'a Arabs, Sunni Arabs, Kurds, Assyrians, Turkmen, Yezidis
+State: Israel, Ethnicity Count: 6, Ethnicities: Ashkenazim (Jewish), Palestinians (Arab), Israeli Arabs, Palestinian Arabs, Mizrahim (Jewish), Russians (Jewish)
+State: Japan, Ethnicity Count: 5, Ethnicities: Japanese, Koreans, Burakumin, Okinawans, Ainu
+State: Jordan, Ethnicity Count: 3, Ethnicities: Palestinian Arabs, Jordanian Arabs, Christians
+State: Kazakhstan, Ethnicity Count: 8, Ethnicities: Kazakhs, Russians, Germans, Ukrainians, Tatars, Uzbeks, Uighur, Russian-speakers
+State: Korea, People's Republic of, Ethnicity Count: 1, Ethnicities: Koreans
+State: Korea, Republic of, Ethnicity Count: 1, Ethnicities: Koreans
+State: Kuwait, Ethnicity Count: 3, Ethnicities: Kuwaiti Sunni (Arab), Kuwaiti Shi'a (Arab), Bedoon
+State: Kyrgyz Republic, Ethnicity Count: 4, Ethnicities: Kyrgyz, Russians, Uzbeks, Uyghur
+State: Laos, Ethnicity Count: 6, Ethnicities: Lao (incl. Phuan), Lao Tai, Lao Thoeng (excl. Khmou), Khmou, Hmong, Lao Sung (excl. Hmong)
+State: Lebanon, Ethnicity Count: 11, Ethnicities: Maronite Christians, Sunnis (Arab), Shi'a Muslims (Arab), Palestinians (Arab), Druze, Greek Orthodox, Greek Catholics, Armenian Orthodox, Armenian Catholics, Protestants, Alawites
+State: Malaysia, Ethnicity Count: 6, Ethnicities: Malays, Chinese, East Indians, Dayaks, Kadazans, Orang Asli
+State: Maldives, Ethnicity Count: 1, Ethnicities: Divehis
+State: Mongolia, Ethnicity Count: 2, Ethnicities: Mongols, Kazakh
+State: Myanmar (Burma), Ethnicity Count: 12, Ethnicities: Bamar (Barman), Shan, Kayin (Karens), Chinese, Zomis (Chins), Buddhist Arakanese, Indians, Mons, Muslim Arakanese, Kachins, Karenni (Red Karens), Wa
+State: Nepal, Ethnicity Count: 6, Ethnicities: Caste Hill Hindu Elite, Adibasi Janajati, Dalits, Madhesi, Newars, Muslims
+State: Oman, Ethnicity Count: 1, Ethnicities: Ibadhi Muslims (Arab)
+State: Pakistan, Ethnicity Count: 9, Ethnicities: Bengali, Punjabi, Pashtuns, Sindhi, Mohajirs, Baluchis, Hindus, Ahmadis, Christians
+State: Philippines, Ethnicity Count: 4, Ethnicities: Christian lowlanders, Moro, Fil-Chinese, Indigenous
+State: Qatar, Ethnicity Count: 1, Ethnicities: Qatari Arabs
+State: Saudi Arabia, Ethnicity Count: 4, Ethnicities: Sunni Wahhabi (Najdi) (Arab), Sunni Shafii/Sofi (Hijazi) (Arab), Ja'afari Shia (Eastern Province) (Arab), Ismaili Shia (South) (Arab)
+State: Singapore, Ethnicity Count: 4, Ethnicities: Chinese, Malays, Indians, Eurasians and Others
+State: Sri Lanka (Ceylon), Ethnicity Count: 4, Ethnicities: Sinhalese, Indian Tamils, Sri Lankan Tamils, Moors (Muslims)
+State: Syria, Ethnicity Count: 5, Ethnicities: Sunni Arabs, Alawi, Christians, Kurds, Druze
+State: Taiwan, Ethnicity Count: 3, Ethnicities: Taiwanese, Mainland Chinese, Indigenous/Aboriginal Taiwanese
+State: Tajikistan, Ethnicity Count: 6, Ethnicities: Tajiks, Uzbeks, Russians, Pamiri Tajiks, Tatars, Kyrgyz
+State: Thailand, Ethnicity Count: 5, Ethnicities: Thai, Chinese, Malay Muslims, Shan, Hill Tribes
+State: Tibet, Ethnicity Count: 1, Ethnicities: Tibetians
+State: Turkey (Ottoman Empire), Ethnicity Count: 3, Ethnicities: Turkish, Kurds, Roma
+State: Turkmenistan, Ethnicity Count: 4, Ethnicities: Turkmen, Uzbeks, Russians, Kazakhs
+State: United Arab Emirates, Ethnicity Count: 1, Ethnicities: Emirati Arabs
+State: Uzbekistan, Ethnicity Count: 4, Ethnicities: Uzbeks, Russians, Tajiks, Karakalpak
+State: Vietnam, Democratic Republic of, Ethnicity Count: 10, Ethnicities: Kinh (Vietnamese), Tay, Thai, Muong, Hoa (Chinese), Nung, Hmong, Dao, Khmer, Gia Rai
+State: Vietnam, Republic of, Ethnicity Count: 2, Ethnicities: Kinh (Vietnamese), Hoa (Chinese)
+State: Yemen (Arab Republic of Yemen), Ethnicity Count: 9, Ethnicities: Sunni Shafi'i (Arab), Zaydis, Al-Akhdam, Jewish, Northerners, Southerners, Northern Shafi'i, Northern Zaydis, Southern Shafi'i
+State: Yemen, People's Republic of, Ethnicity Count: 1, Ethnicities: Southern Yemenis

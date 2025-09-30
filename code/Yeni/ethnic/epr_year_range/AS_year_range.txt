@@ -1,0 +1,51 @@
+State: Cyprus, Min Year: 1960, Max Year: 2021
+State: Armenia, Min Year: 1991, Max Year: 2021
+State: Georgia, Min Year: 1991, Max Year: 2021
+State: Azerbaijan, Min Year: 1991, Max Year: 2021
+State: Iran (Persia), Min Year: 1946, Max Year: 2021
+State: Turkey (Ottoman Empire), Min Year: 1946, Max Year: 2021
+State: Iraq, Min Year: 1946, Max Year: 2021
+State: Syria, Min Year: 1946, Max Year: 2021
+State: Lebanon, Min Year: 1946, Max Year: 2021
+State: Jordan, Min Year: 1946, Max Year: 2021
+State: Israel, Min Year: 1948, Max Year: 2021
+State: Saudi Arabia, Min Year: 1946, Max Year: 2021
+State: Yemen (Arab Republic of Yemen), Min Year: 1946, Max Year: 2021
+State: Yemen, People's Republic of, Min Year: 1967, Max Year: 1990
+State: Kuwait, Min Year: 1961, Max Year: 2021
+State: Bahrain, Min Year: 1971, Max Year: 2021
+State: Qatar, Min Year: 1971, Max Year: 2021
+State: United Arab Emirates, Min Year: 1971, Max Year: 2021
+State: Oman, Min Year: 1946, Max Year: 2021
+State: Afghanistan, Min Year: 1946, Max Year: 2021
+State: Turkmenistan, Min Year: 1991, Max Year: 2021
+State: Tajikistan, Min Year: 1991, Max Year: 2021
+State: Kyrgyz Republic, Min Year: 1991, Max Year: 2021
+State: Uzbekistan, Min Year: 1991, Max Year: 2021
+State: Kazakhstan, Min Year: 1991, Max Year: 2021
+State: China, Min Year: 1946, Max Year: 2021
+State: Tibet, Min Year: 1946, Max Year: 1950
+State: Mongolia, Min Year: 1946, Max Year: 2021
+State: Taiwan, Min Year: 1949, Max Year: 2021
+State: Korea, People's Republic of, Min Year: 1948, Max Year: 2021
+State: Korea, Republic of, Min Year: 1948, Max Year: 2021
+State: Japan, Min Year: 1946, Max Year: 2021
+State: India, Min Year: 1947, Max Year: 2021
+State: Bhutan, Min Year: 1949, Max Year: 2021
+State: Pakistan, Min Year: 1947, Max Year: 2021
+State: Bangladesh, Min Year: 1971, Max Year: 2021
+State: Myanmar (Burma), Min Year: 1948, Max Year: 2021
+State: Sri Lanka (Ceylon), Min Year: 1948, Max Year: 2021
+State: Maldives, Min Year: 1965, Max Year: 2021
+State: Nepal, Min Year: 1946, Max Year: 2021
+State: Thailand, Min Year: 1946, Max Year: 2021
+State: Cambodia (Kampuchea), Min Year: 1953, Max Year: 2021
+State: Laos, Min Year: 1953, Max Year: 2021
+State: Vietnam, Democratic Republic of, Min Year: 1954, Max Year: 2021
+State: Vietnam, Republic of, Min Year: 1954, Max Year: 1975
+State: Malaysia, Min Year: 1957, Max Year: 2021
+State: Singapore, Min Year: 1965, Max Year: 2021
+State: Brunei, Min Year: 1984, Max Year: 2021
+State: Philippines, Min Year: 1946, Max Year: 2021
+State: Indonesia, Min Year: 1946, Max Year: 2021
+State: East Timor, Min Year: 2002, Max Year: 2021

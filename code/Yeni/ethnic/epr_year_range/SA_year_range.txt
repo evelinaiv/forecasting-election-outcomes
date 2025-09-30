@@ -1,0 +1,12 @@
+State: Colombia, Min Year: 1946, Max Year: 2021
+State: Venezuela, Min Year: 1946, Max Year: 2021
+State: Guyana, Min Year: 1966, Max Year: 2021
+State: Surinam, Min Year: 1975, Max Year: 2021
+State: Ecuador, Min Year: 1946, Max Year: 2021
+State: Peru, Min Year: 1946, Max Year: 2021
+State: Brazil, Min Year: 1946, Max Year: 2021
+State: Bolivia, Min Year: 1946, Max Year: 2021
+State: Paraguay, Min Year: 1946, Max Year: 2021
+State: Chile, Min Year: 1946, Max Year: 2021
+State: Argentina, Min Year: 1946, Max Year: 2021
+State: Uruguay, Min Year: 1946, Max Year: 2021

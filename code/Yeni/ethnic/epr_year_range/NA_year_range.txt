@@ -1,0 +1,17 @@
+State: United States of America, Min Year: 1946, Max Year: 2021
+State: Canada, Min Year: 1946, Max Year: 2021
+State: Bahamas, Min Year: 1973, Max Year: 2021
+State: Cuba, Min Year: 1946, Max Year: 2021
+State: Haiti, Min Year: 1946, Max Year: 2021
+State: Dominican Republic, Min Year: 1946, Max Year: 2021
+State: Jamaica, Min Year: 1962, Max Year: 2021
+State: Trinidad and Tobago, Min Year: 1962, Max Year: 2021
+State: Barbados, Min Year: 1966, Max Year: 2021
+State: Mexico, Min Year: 1946, Max Year: 2021
+State: Belize, Min Year: 1981, Max Year: 2021
+State: Guatemala, Min Year: 1946, Max Year: 2021
+State: Honduras, Min Year: 1946, Max Year: 2021
+State: El Salvador, Min Year: 1946, Max Year: 2021
+State: Nicaragua, Min Year: 1946, Max Year: 2021
+State: Costa Rica, Min Year: 1946, Max Year: 2021
+State: Panama, Min Year: 1946, Max Year: 2021

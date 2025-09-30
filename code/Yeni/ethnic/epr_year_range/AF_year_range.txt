@@ -1,0 +1,53 @@
+State: Cape Verde, Min Year: 1975, Max Year: 2021
+State: Guinea-Bissau, Min Year: 1974, Max Year: 2021
+State: Equatorial Guinea, Min Year: 1968, Max Year: 2021
+State: Gambia, Min Year: 1965, Max Year: 2021
+State: Mali, Min Year: 1960, Max Year: 2021
+State: Senegal, Min Year: 1960, Max Year: 2021
+State: Benin, Min Year: 1960, Max Year: 2021
+State: Mauritania, Min Year: 1960, Max Year: 2021
+State: Niger, Min Year: 1960, Max Year: 2021
+State: Cote D'Ivoire, Min Year: 1960, Max Year: 2021
+State: Guinea, Min Year: 1958, Max Year: 2021
+State: Burkina Faso (Upper Volta), Min Year: 1960, Max Year: 2021
+State: Liberia, Min Year: 1946, Max Year: 2021
+State: Sierra Leone, Min Year: 1961, Max Year: 2021
+State: Ghana, Min Year: 1957, Max Year: 2021
+State: Togo, Min Year: 1960, Max Year: 2021
+State: Cameroon, Min Year: 1960, Max Year: 2021
+State: Nigeria, Min Year: 1960, Max Year: 2021
+State: Gabon, Min Year: 1960, Max Year: 2021
+State: Central African Republic, Min Year: 1960, Max Year: 2021
+State: Chad, Min Year: 1960, Max Year: 2021
+State: Congo, Min Year: 1960, Max Year: 2021
+State: Congo, Democratic Republic of (Zaire), Min Year: 1960, Max Year: 2021
+State: Uganda, Min Year: 1962, Max Year: 2021
+State: Kenya, Min Year: 1963, Max Year: 2021
+State: Tanzania (Tanganyika), Min Year: 1961, Max Year: 2021
+State: Zanzibar, Min Year: 1963, Max Year: 1964
+State: Burundi, Min Year: 1962, Max Year: 2021
+State: Rwanda, Min Year: 1962, Max Year: 2021
+State: Somalia, Min Year: 1960, Max Year: 2021
+State: Djibouti, Min Year: 1977, Max Year: 2021
+State: Ethiopia, Min Year: 1946, Max Year: 2021
+State: Eritrea, Min Year: 1993, Max Year: 2021
+State: Angola, Min Year: 1975, Max Year: 2021
+State: Mozambique, Min Year: 1975, Max Year: 2021
+State: Zambia, Min Year: 1964, Max Year: 2021
+State: Zimbabwe (Rhodesia), Min Year: 1965, Max Year: 2021
+State: Malawi, Min Year: 1964, Max Year: 2021
+State: South Africa, Min Year: 1946, Max Year: 2021
+State: Namibia, Min Year: 1990, Max Year: 2021
+State: Lesotho, Min Year: 1966, Max Year: 2021
+State: Botswana, Min Year: 1966, Max Year: 2021
+State: Swaziland (Eswatini), Min Year: 1968, Max Year: 2021
+State: Madagascar (Malagasy), Min Year: 1960, Max Year: 2021
+State: Comoros, Min Year: 1975, Max Year: 2021
+State: Mauritius, Min Year: 1968, Max Year: 2021
+State: Morocco, Min Year: 1956, Max Year: 2021
+State: Algeria, Min Year: 1962, Max Year: 2021
+State: Tunisia, Min Year: 1956, Max Year: 2021
+State: Libya, Min Year: 1951, Max Year: 2021
+State: Sudan, Min Year: 1956, Max Year: 2021
+State: South Sudan, Min Year: 2011, Max Year: 2021
+State: Egypt, Min Year: 1946, Max Year: 2021
