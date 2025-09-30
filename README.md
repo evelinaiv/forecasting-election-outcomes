@@ -20,19 +20,29 @@ The dataset spans **38 democracies (1900–2023)** and combines election outcome
 ## Repository Structure
 
 Connor/, Eva/, Matt/, Yarkin/, Yeni/ethnic/, Zehn/
+
 User-specific folders with intermediate cleaning outputs.
 
 ### 0.1 – 0.9 Notebooks (Data Cleaning)
 
 0.1 Democratic & Economic – Data Cleaning → preprocesses democratic and economic indicators
+
 0.2 Economic – Data Cleaning → focuses on core economic factors
+
 0.3 Election Outcomes – Data Cleaning → prepares election results dataset
+
 0.4 Ethnicity & Religion – Data Cleaning → processes demographic and religious data
+
 0.5 Inflation – Data Cleaning → cleans inflation indicators
+
 0.6 Multiple – Data Cleaning → handles multiple factor interactions
+
 0.7 Politics – Data Cleaning → cleans political variables
+
 0.8 Unemployment – Data Cleaning → processes unemployment rates
+
 0.9 Urbanisation – Data Cleaning → processes urbanisation metrics
+
 
 ### 1 – 9 Main Analysis Notebooks
 
