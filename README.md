@@ -18,47 +18,42 @@ The dataset spans **38 democracies (1900–2023)** and combines election outcome
 ---
 
 election-forecasting/
-├── notebooks/                         # Sequential workflow notebooks
-│   ├── 0.1 - Democratic & Economic - Data Cleaning.ipynb
-│   ├── 0.2 - Economic - Data Cleaning.ipynb
-│   ├── 0.3 - Election Outcomes - Data Cleaning.ipynb
-│   ├── 0.4 - Ethnicity & Religion - Data Cleaning.ipynb
-│   ├── 0.5 - Inflation - Data Cleaning.ipynb
-│   ├── 0.6 - Multiple - Data Cleaning.ipynb
-│   ├── 0.7 - Politics - Data Cleaning.ipynb
-│   ├── 0.8 - Unemployment - Data Cleaning.ipynb
-│   ├── 0.9 - Urbanisation - Data Cleaning.ipynb
-│   ├── 1 - Data Combination.ipynb          # Merges all cleaned datasets
-│   ├── 2 - Data Cleaning.ipynb             # Final cleaning and harmonisation
-│   ├── 3 - Exploratory Data Analysis.ipynb # EDA and feature exploration
-│   ├── 4 - Principal Component Analysis.ipynb # PCA and dimensionality reduction
-│   ├── 5 - Election Averaging.ipynb        # Aggregation of election outcomes
-│   ├── 6 - Main Model.ipynb                # Global ML models (LogReg, RF, XGBoost)
-│   ├── 7 - Clustering.ipynb                # Country clustering (hierarchical methods)
-│   ├── 8 - Cluster Models.ipynb            # Cluster-specific ML models
-│   └── 9 - Polling Results.ipynb           # Benchmarking vs. polling data
+├── Connor/                          # User-specific data cleaning outputs
+├── Eva/
+├── Matt/
+├── Yarkin/
+├── Yeni/ethnic/
+├── Zehn/
 │
-├── data/                              # Raw and processed data (not included in repo)
-│   ├── Connor/                        # User-specific data cleaning outputs
-│   ├── Eva/
-│   ├── Matt/
-│   ├── Yarkin/
-│   ├── Yeni/
-│   ├── Zehn/
-│   ├── Final_Y_100325.csv             # Final cleaned dataset
-│   ├── fully-combined.csv             # Combined dataset after merging
-│   └── Polling_Final.csv              # Polling data for benchmarking
+├── 0.1 - Democratic & Economic - Data Cleaning.ipynb
+├── 0.2 - Economic - Data Cleaning.ipynb
+├── 0.3 - Election Outcomes - Data Cleaning.ipynb
+├── 0.4 - Ethnicity & Religion - Data Cleaning.ipynb
+├── 0.5 - Inflation - Data Cleaning.ipynb
+├── 0.6 - Multiple - Data Cleaning.ipynb
+├── 0.7 - Politics - Data Cleaning.ipynb
+├── 0.9 - Urbanisation - Data Cleaning.ipynb
+├── 1 - Data Combination.ipynb            # Merges cleaned datasets
+├── 2 - Data Cleaning.ipynb               # Final cleaning & harmonisation
+├── 3 - Exploratory Data Analysis.ipynb   # EDA & feature exploration
+├── 4 - Principal Component Analysis.ipynb # PCA & dimensionality reduction
+├── 5 - Election Averaging.ipynb          # Aggregation of election outcomes
+├── 6 - Main Model.ipynb                  # ML models (LogReg, RF, XGBoost)
+├── 7 - Clustering.ipynb                  # Hierarchical clustering
+├── 8 - Cluster Models.ipynb              # Cluster-specific ML models
+├── 9 - Polling Results.ipynb             # Benchmarking vs polling
 │
-├── reports/
-│   └── Group_18_Final_Report.pdf      # Full written report
+├── Final_Y_100325.csv                    # Final cleaned dataset
+├── fully-combined.csv                    # Combined dataset after merging
+├── Polling_Final.csv                     # Polling dataset for benchmarking
 │
-├── src/                               # Helper scripts for reproducibility
-│   ├── preprocess.py
-│   ├── models.py
-│   └── evaluation.py
-│
-├── requirements.txt                   # Python dependencies
+├── Group_18_Final_Report.pdf             # Full project report
+├── preprocess.py                         # Helper script - preprocessing
+├── models.py                             # Helper script - ML models
+├── evaluation.py                         # Helper script - evaluation
+├── requirements.txt                      # Python dependencies
 └── README.md
+
 
 
 ---
