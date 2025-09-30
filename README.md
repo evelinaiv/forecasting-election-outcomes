@@ -47,29 +47,47 @@ User-specific folders with intermediate cleaning outputs.
 ### 1 – 9 Main Analysis Notebooks
 
 1 Data Combination → merges all cleaned datasets
+
 2 Data Cleaning → final harmonisation and consistency checks
+
 3 Exploratory Data Analysis → exploratory visualisations & correlations
+
 4 Principal Component Analysis → dimensionality reduction using PCA
+
 5 Election Averaging → aggregates election outcomes
+
 6 Main Model → global ML models (Logistic Regression, Random Forest, XGBoost)
+
 7 Clustering → hierarchical clustering of democracies into groups
+
 8 Cluster Models → cluster-specific ML models
+
 9 Polling Results → benchmarks models against polling data
+
 
 ### CSV Files
 
 Final_Y_100325.csv → final cleaned dataset
+
 fully-combined.csv → combined dataset after merging
+
 Polling_Final.csv → polling data for benchmarking
+
 
 ### Other Files
 
 Group_18_Final_Report.pdf → full written report
+
 preprocess.py → preprocessing helper script
+
 models.py → ML modelling helper script
+
 evaluation.py → evaluation helper script
+
 requirements.txt → Python dependencies
+
 README.md → project documentation
+
 
 ---
 
