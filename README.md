@@ -17,43 +17,72 @@ The dataset spans **38 democracies (1900–2023)** and combines election outcome
 
 ---
 
-election-forecasting/
-├── Connor/                          # User-specific data cleaning outputs
-├── Eva/
-├── Matt/
-├── Yarkin/
-├── Yeni/ethnic/
-├── Zehn/
-│
-├── 0.1 - Democratic & Economic - Data Cleaning.ipynb
-├── 0.2 - Economic - Data Cleaning.ipynb
-├── 0.3 - Election Outcomes - Data Cleaning.ipynb
-├── 0.4 - Ethnicity & Religion - Data Cleaning.ipynb
-├── 0.5 - Inflation - Data Cleaning.ipynb
-├── 0.6 - Multiple - Data Cleaning.ipynb
-├── 0.7 - Politics - Data Cleaning.ipynb
-├── 0.9 - Urbanisation - Data Cleaning.ipynb
-├── 1 - Data Combination.ipynb            # Merges cleaned datasets
-├── 2 - Data Cleaning.ipynb               # Final cleaning & harmonisation
-├── 3 - Exploratory Data Analysis.ipynb   # EDA & feature exploration
-├── 4 - Principal Component Analysis.ipynb # PCA & dimensionality reduction
-├── 5 - Election Averaging.ipynb          # Aggregation of election outcomes
-├── 6 - Main Model.ipynb                  # ML models (LogReg, RF, XGBoost)
-├── 7 - Clustering.ipynb                  # Hierarchical clustering
-├── 8 - Cluster Models.ipynb              # Cluster-specific ML models
-├── 9 - Polling Results.ipynb             # Benchmarking vs polling
-│
-├── Final_Y_100325.csv                    # Final cleaned dataset
-├── fully-combined.csv                    # Combined dataset after merging
-├── Polling_Final.csv                     # Polling dataset for benchmarking
-│
-├── Group_18_Final_Report.pdf             # Full project report
-├── preprocess.py                         # Helper script - preprocessing
-├── models.py                             # Helper script - ML models
-├── evaluation.py                         # Helper script - evaluation
-├── requirements.txt                      # Python dependencies
-└── README.md
+Repository Structure
 
+Connor/, Eva/, Matt/, Yarkin/, Yeni/ethnic/, Zehn/
+User-specific folders with intermediate cleaning outputs.
+
+0.1 – 0.9 Notebooks
+
+0.1 Democratic & Economic – Data Cleaning: preprocesses democratic and economic indicators
+
+0.2 Economic – Data Cleaning: focuses on core economic factors
+
+0.3 Election Outcomes – Data Cleaning: prepares election results dataset
+
+0.4 Ethnicity & Religion – Data Cleaning: processes demographic and religious data
+
+0.5 Inflation – Data Cleaning: cleans inflation indicators
+
+0.6 Multiple – Data Cleaning: handles multiple factor interactions
+
+0.7 Politics – Data Cleaning: cleans political variables
+
+0.8 Unemployment – Data Cleaning: processes unemployment rates
+
+0.9 Urbanisation – Data Cleaning: processes urbanisation metrics
+
+1 – 9 Main Analysis Notebooks
+
+1 Data Combination: merges all cleaned datasets
+
+2 Data Cleaning: final harmonisation and consistency checks
+
+3 Exploratory Data Analysis: exploratory visualisations & correlations
+
+4 Principal Component Analysis: dimensionality reduction using PCA
+
+5 Election Averaging: aggregates election outcomes
+
+6 Main Model: global ML models (Logistic Regression, Random Forest, XGBoost)
+
+7 Clustering: hierarchical clustering of democracies into groups
+
+8 Cluster Models: cluster-specific ML models
+
+9 Polling Results: benchmarks models against polling data
+
+CSV Files
+
+Final_Y_100325.csv: final cleaned dataset
+
+fully-combined.csv: combined dataset after merging
+
+Polling_Final.csv: polling data for benchmarking
+
+Other Files
+
+Group_18_Final_Report.pdf: full written report
+
+preprocess.py: preprocessing helper script
+
+models.py: ML modelling helper script
+
+evaluation.py: evaluation helper script
+
+requirements.txt: Python dependencies
+
+README.md: project documentation
 
 
 ---
